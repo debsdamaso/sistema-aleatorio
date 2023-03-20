@@ -3,4 +3,6 @@
 >Status do projeto: em desenvolvimento
 
 Para rodar, digite:
-...
+```
+node app.js
+```
